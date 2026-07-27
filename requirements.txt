@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+catboost
+torch
+comet_ml
+python-dotenv
+pyyaml
+xgboost
+lightgbm
+optuna

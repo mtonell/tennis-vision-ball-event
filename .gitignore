@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+Dataset/
+data/
+*.csv
+
+# Model Weights
+weights/
+*.pkl
+*.pth
+*.pt
+*.model
+
+configs/
+!configs/tune_parameters.yaml
+
+.DS_Store
+Thumbs.db
